@@ -1,1 +1,0 @@
-Problem description of "Majority Element" can be found [here](https://leetcode.com/problems/majority-element/).

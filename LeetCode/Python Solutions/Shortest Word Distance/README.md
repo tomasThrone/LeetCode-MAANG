@@ -1,1 +1,0 @@
-Problem description of "Shortest Word Distance" can be found [here](https://leetcode.com/problems/shortest-word-distance/).

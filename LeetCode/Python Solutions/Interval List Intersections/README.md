@@ -1,1 +1,0 @@
-Problem description of "Interval List Intersections" can be found [here](https://leetcode.com/problems/interval-list-intersections/).
